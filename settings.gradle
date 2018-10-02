@@ -1,1 +1,1 @@
-include ':app', ':lib_net', ':lib_net_okgo', ':app2'
+include   ':app2'
